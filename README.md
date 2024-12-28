@@ -1,0 +1,2 @@
+# 10-BE-UZMANLIK-YY
+ 

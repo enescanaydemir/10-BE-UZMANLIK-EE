@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "EfCore.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EfCore.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EfCore.Shared.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "EfCore.Shared/1.0.0": {
+      "type": "project",
+      "path": "../EfCore.Shared/EfCore.Shared.csproj",
+      "msbuildProject": "../EfCore.Shared/EfCore.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "EfCore.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/enescanaydemir/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-YY/02-LINQ ve EF Core/Week03/22-12-2024/Proje14_EfCore/EfCoreManyToMany/EfCore.Entity/EfCore.Entity.csproj",
+      "projectName": "EfCore.Entity",
+      "projectPath": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-YY/02-LINQ ve EF Core/Week03/22-12-2024/Proje14_EfCore/EfCoreManyToMany/EfCore.Entity/EfCore.Entity.csproj",
+      "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
+      "outputPath": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-YY/02-LINQ ve EF Core/Week03/22-12-2024/Proje14_EfCore/EfCoreManyToMany/EfCore.Entity/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/enescanaydemir/dev/10-BE-UZMANLIK-YY/02-LINQ ve EF Core/Week03/22-12-2024/Proje14_EfCore/EfCoreManyToMany/EfCore.Shared/EfCore.Shared.csproj": {
+              "projectPath": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-YY/02-LINQ ve EF Core/Week03/22-12-2024/Proje14_EfCore/EfCoreManyToMany/EfCore.Shared/EfCore.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
