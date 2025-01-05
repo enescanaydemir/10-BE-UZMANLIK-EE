@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Entity/EShop.Entity.csproj": {}
+  },
+  "projects": {
+    "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Entity/EShop.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Entity/EShop.Entity.csproj",
+        "projectName": "EShop.Entity",
+        "projectPath": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Entity/EShop.Entity.csproj",
+        "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
+        "outputPath": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Shared/EShop.Shared.csproj": {
+                "projectPath": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Shared/EShop.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Shared/EShop.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Shared/EShop.Shared.csproj",
+        "projectName": "EShop.Shared",
+        "projectPath": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Shared/EShop.Shared.csproj",
+        "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
+        "outputPath": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week05/05-01-2025/EShop/EShop.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
