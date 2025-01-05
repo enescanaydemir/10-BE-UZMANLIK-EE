@@ -343,6 +343,7 @@ public class EShopDbContext : IdentityDbContext<ApplicationUser, ApplicationRole
 
 
         var hasher = new PasswordHasher<ApplicationUser>(); // Password hashlemek için kullanılıyor.
+        
         var adminUser = new ApplicationUser("Ali", "Cabbar", new DateTime(1995, 1, 1), GenderType.Male)
         {
             Id = "37827b5a-811b-4417-ac41-2637e102c0a2",

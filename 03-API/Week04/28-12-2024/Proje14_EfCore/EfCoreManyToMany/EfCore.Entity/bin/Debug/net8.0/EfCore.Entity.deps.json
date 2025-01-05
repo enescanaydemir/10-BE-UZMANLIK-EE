@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EfCore.Entity/1.0.0": {
+        "dependencies": {
+          "EfCore.Shared": "1.0.0"
+        },
+        "runtime": {
+          "EfCore.Entity.dll": {}
+        }
+      },
+      "EfCore.Shared/1.0.0": {
+        "runtime": {
+          "EfCore.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EfCore.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EfCore.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
