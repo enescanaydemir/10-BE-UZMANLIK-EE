@@ -17,39 +17,53 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
         _dbSet = dbContext.Set<TEntity>();
     }
 
-    public Task AddAsync(TEntity entity)
+    public async Task<TEntity> AddAsync(TEntity entity)
     {
-        throw new NotImplementedException();
+        await _dbSet.AddAsync(entity);
+        return entity;
     }
 
-    public Task<int> CountAsync()
+    public async Task<int> CountAsync()
     {
-        throw new NotImplementedException();
+        return await _dbSet.CountAsync();
     }
 
     public Task<int> CountAsync(Expression<Func<TEntity, bool>> predicate)
     {
-        throw new NotImplementedException();
+        return _dbSet.CountAsync(predicate);
     }
 
     public void Delete(TEntity entity)
     {
-        throw new NotImplementedException();
+        _dbSet.Remove(entity);
     }
 
-    public Task<bool> ExistsAsync(Expression<Func<TEntity, bool>> predicate)
+    public async Task<bool> ExistsAsync(Expression<Func<TEntity, bool>> predicate)
     {
-        throw new NotImplementedException();
+        return await _dbSet.AnyAsync(predicate);
     }
 
-    public Task<IEnumerable<TEntity>> GetAllAsync()
+    public async Task<IEnumerable<TEntity>> GetAllAsync()
     {
-        throw new NotImplementedException();
+        return await _dbSet.ToListAsync();
     }
 
-    public Task<IEnumerable<TEntity>> GetAllAsync(Expression<Func<TEntity, bool>> predicate, Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>> orderBy = null, params Func<IQueryable<TEntity>, IQueryable<TEntity>>[] includes)
+    public async Task<IEnumerable<TEntity>> GetAllAsync(Expression<Func<TEntity, bool>> predicate, Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>> orderBy = null, params Func<IQueryable<TEntity>, IQueryable<TEntity>>[] includes)
     {
-        throw new NotImplementedException();
+        IQueryable<TEntity> query = _dbSet;
+        if (predicate != null)
+        {
+            query = query.Where(predicate);
+        }
+        if (orderBy != null)
+        {
+            query = orderBy(query);
+        }
+        if (includes != null)
+        {
+            query = includes.Aggregate(query, (current, include) => include(current));
+        }
+        return await query.ToListAsync();
     }
 
     public async Task<TEntity> GetAsync(int id)
@@ -57,7 +71,7 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
         return await _dbSet.FindAsync(id);
     }
 
-    public Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> predicate, params Func<IQueryable<TEntity>, IQueryable<TEntity>>[] includes)
+    public async Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> predicate, params Func<IQueryable<TEntity>, IQueryable<TEntity>>[] includes)
     {
         IQueryable<TEntity> query = _dbSet; //query dbseti temsil eden productları aldı
         if (predicate != null)
@@ -69,6 +83,8 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
             query = includes.Aggregate(query, (current, include) => include(current));
         }
 
+        var result = await query.FirstOrDefaultAsync();
+        return result;
         //_dbSet=context.Products();
         //query=context.Products();
         //predicate = p => p.IsDeleted == true
@@ -84,6 +100,7 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
 
     public void Update(TEntity entity)
     {
-        throw new NotImplementedException();
+        _dbSet.Update(entity);
+        _dbSet.Entry(entity).State = EntityState.Modified;
     }
 }

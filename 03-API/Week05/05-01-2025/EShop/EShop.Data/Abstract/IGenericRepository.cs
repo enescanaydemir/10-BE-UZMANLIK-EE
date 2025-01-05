@@ -24,8 +24,8 @@ public interface IGenericRepository<TEntity> where TEntity : class
     Task<bool> ExistsAsync(Expression<Func<TEntity, bool>> predicate);
     Task<int> CountAsync(); //dümdüz sayma yaparken. bir parametresi yok
     Task<int> CountAsync(Expression<Func<TEntity, bool>> predicate); // bu da sayma yaparken bir şarta göre sayma yaptırdığımız CountAsync
-    Task AddAsync(TEntity entity);
-    
+    Task<TEntity> AddAsync(TEntity entity);
+
     //Ekleme,güncelleme,silme metodları;
     void Update(TEntity entity);
     void Delete(TEntity entity);
