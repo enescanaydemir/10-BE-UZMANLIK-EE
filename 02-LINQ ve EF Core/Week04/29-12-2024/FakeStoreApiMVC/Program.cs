@@ -9,7 +9,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.Configure<ApiSettings>(builder.Configuration.GetSection("FakeStoreApi")); //appsettings.json dosyasındaki FakeStoreApi alanını ApiSettings sınıfına bağlıyoruz.
 
 // HttpClient ApiSettings ile konfigüre ediliyor.
-builder.Services.AddHttpClient("FakeStoreApi", (ServiceProvider, client) => {   //
+builder.Services.AddHttpClient("FakeStoreApi", (ServiceProvider, client) =>
+{
     ApiSettings apiSettings = ServiceProvider.GetRequiredService<IOptions<ApiSettings>>().Value; //ApiSettings sınıfını alıyoruz. çünkü BaseUrl alanını kullanacağız.
     client.BaseAddress = new Uri(apiSettings.BaseUrl); //HttpClient sınıfının BaseAddress özelliğine ApiSettings sınıfındaki BaseUrl alanını atıyoruz.
 });
