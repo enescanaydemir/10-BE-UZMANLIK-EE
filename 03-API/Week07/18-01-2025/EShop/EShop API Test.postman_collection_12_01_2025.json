@@ -1,0 +1,105 @@
+{
+	"info": {
+		"_postman_id": "eb082c20-5a07-472f-81fc-df66f2221591",
+		"name": "EShop API Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29898144"
+	},
+	"item": [
+		{
+			"name": "Auth Test",
+			"item": [
+				{
+					"name": "Login User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"userName\": \"enginniyazi\",\r\n    \"password\": \"Qwe123.,\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5210/api/auths/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5210",
+							"path": [
+								"api",
+								"auths",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login Admin",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"userName\": \"adminuser@gmail.com\",\r\n    \"password\": \"Qwe123.,\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5210/api/auths/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5210",
+							"path": [
+								"api",
+								"auths",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"firstName\": \"Engin\",\r\n  \"lastName\": \"Niyazi\",\r\n  \"address\": \"Kadıköy\",\r\n  \"city\": \"İstanbul\",\r\n  \"gender\": 1,\r\n  \"dateOfBirth\": \"2025-01-12T11:56:44.598Z\",\r\n  \"email\": \"user@example.com\",\r\n  \"userName\": \"enginniyazi\",\r\n  \"password\": \"Qwe123.,\",\r\n  \"confirmPassword\": \"Qwe123.,\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5210/api/auths/register",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5210",
+							"path": [
+								"api",
+								"auths",
+								"register"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

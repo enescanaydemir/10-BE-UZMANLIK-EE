@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "pHmxk+r3wKKRmCOI8PZr4w9FePvUhgj9mzJP6G9+PE0=",
+  "Source": "EShop.API",
+  "BasePath": "_content/EShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EShop.API/wwwroot",
+      "Source": "EShop.API",
+      "ContentRoot": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week07/19-01-2025/EShop/EShop.API/wwwroot/",
+      "BasePath": "_content/EShop.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week07/19-01-2025/EShop/EShop.API/wwwroot/images/33165dd1-6207-4b47-a753-275fa2a384c8.png",
+      "SourceId": "EShop.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week07/19-01-2025/EShop/EShop.API/wwwroot/",
+      "BasePath": "_content/EShop.API",
+      "RelativePath": "images/33165dd1-6207-4b47-a753-275fa2a384c8.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/33165dd1-6207-4b47-a753-275fa2a384c8.png"
+    }
+  ]
+}

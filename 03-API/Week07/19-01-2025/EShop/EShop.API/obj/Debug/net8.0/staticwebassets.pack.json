@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week07/19-01-2025/EShop/EShop.API/wwwroot/images/33165dd1-6207-4b47-a753-275fa2a384c8.png",
+      "PackagePath": "staticwebassets/images/33165dd1-6207-4b47-a753-275fa2a384c8.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EShop.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EShop.API.props",
+      "PackagePath": "build\\EShop.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EShop.API.props",
+      "PackagePath": "buildMultiTargeting\\EShop.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EShop.API.props",
+      "PackagePath": "buildTransitive\\EShop.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
