@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "cCJLqc77aK5vtofSZ77EcPspsu3Sy7FHHqneiYEZ1Dk=",
+  "Source": "EShop.API",
+  "BasePath": "_content/EShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EShop.API/wwwroot",
+      "Source": "EShop.API",
+      "ContentRoot": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week08/25-01-2025/EShop/EShop.API/wwwroot/",
+      "BasePath": "_content/EShop.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
