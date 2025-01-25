@@ -122,9 +122,19 @@ public class CartManager : ICartService
         }
     }
 
-    public Task<ResponseDto<CartDto>> CreateCartAsync(string applicationUserId)
+    public async Task<ResponseDto<CartDto>> CreateCartAsync(string applicationUserId)
     {
-        throw new NotImplementedException();
+        if (string.IsNullOrEmpty(applicationUserId))
+        {
+            return ResponseDto<CartDto>.Fail("Kullanıcı id'si boş olamaz", StatusCodes.Status400BadRequest);
+        }
+        var existCart = await _cartRepository.GetAsync(x => x.ApplicationUserId == applicationUserId); //applicationUserId'ye göre cart var mı diye bak
+        if (existCart != null)
+        {
+            var cartDto = _mapper.Map<CartDto>(existCart); //cart varsa cart'ı CartDto'ya dönüştür
+            return ResponseDto<CartDto>.Success(cartDto, StatusCodes.Status400BadRequest);
+        }
+        var cart = new Cart(applicationUserId); //cart yoksa yeni cart oluştur
     }
 
     public Task<ResponseDto<CartDto>> GetCartAsync(string applicationUserId)
