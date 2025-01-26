@@ -15,7 +15,7 @@ namespace EShop.Services.Mapping
             CreateMap<Category, CategoryUpdateDto>().ReverseMap();
             #endregion
 
-            #region Category
+            #region Product
             CreateMap<Product, ProductDto>()
                 .ForMember(
                     dest => dest.Categories,
@@ -23,6 +23,34 @@ namespace EShop.Services.Mapping
             .ReverseMap();
             CreateMap<Product, ProductCreateDto>().ReverseMap();
             CreateMap<Product, ProductUpdateDto>().ReverseMap();
+            #endregion
+
+            #region Cart
+            CreateMap<Cart, CartDto>()
+                .ForMember(dest => dest.ApplicationUser, opt => opt.MapFrom(src => src.ApplicationUser))
+                .ForMember(dest => dest.CartItems, opt => opt.MapFrom(src => src.CartItems)).ReverseMap();
+            CreateMap<Cart, CartCreateDto>().ReverseMap();
+            CreateMap<Cart, CartUpdateDto>().ReverseMap();
+            #endregion
+
+            #region CartItem
+            CreateMap<CartItem, CartItemDto>()
+                .ForMember(dest => dest.Product, opt => opt.MapFrom(src => src.Product)).ReverseMap(); //dest = CartItemDto, opt = Product
+            CreateMap<CartItem, CartItemCreateDto>().ReverseMap();
+            CreateMap<CartItem, CartItemUpdateDto>().ReverseMap();
+            #endregion
+
+            #region Order
+            CreateMap<Order, OrderDto>()
+                .ForMember(dest => dest.ApplicationUser, opt => opt.MapFrom(src => src.ApplicationUser))
+                .ForMember(dest => dest.OrderItems, opt => opt.MapFrom(src => src.OrderItems)).ReverseMap();
+            CreateMap<Order, OrderCreateDto>()
+                .ForMember(dest => dest.OrderItems, opt => opt.MapFrom(src => src.OrderItems)).ReverseMap();
+            #endregion
+
+            #region OrderItem
+            CreateMap<OrderItem, OrderItemDto>()
+                .ForMember(dest => dest.Product, opt => opt.MapFrom(src => src.Product)).ReverseMap();
             #endregion
         }
     }
