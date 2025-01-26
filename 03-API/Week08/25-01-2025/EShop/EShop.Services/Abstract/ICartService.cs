@@ -12,7 +12,7 @@ public interface ICartService
 
     //Sepet işlemleri için klasik dışı eklediğimm metotd imzalari. Ancak bunların dto larını farklı tanımlamışız. o zaman aşağıdaki metot imzalarını cartItem olarak farklı bir interface de mi tanımlamamız gerekecek ? 
     //Not: Bu soruyu araştırırken aggregation yani birlikte kullanılan ilişkiyi gördüm. Bu yüzden bu metotları ayrı bir interface de tanımlamama gerek yok sanırım. Çünkü cartItem işlemleri cart işlemleri ile birlikte kullanılıyor(CartDto içinde Collection olarak tanımlı). bir nevi zorunluluk.
-    Task<ResponseDto<CartItemDto>> AddCartItemAsync(CartItemCreateDto cartItemCreateDto); // Sepete ürün ekleme
+    Task<ResponseDto<CartItemDto>> AddToCartAsync(CartItemCreateDto cartItemCreateDto); // Sepete ürün ekleme
     Task<ResponseDto<NoContent>> RemoveFromCartAsync(int cartItemId); // Sepetten ürün çıkarma
     Task<ResponseDto<NoContent>> ClearCartAsync(string applicationUserId); // Sepeti temizleme
     Task<ResponseDto<CartItemDto>> ChangeQuantityAsync(CartItemUpdateDto cartItemUpdateDto); // Sepetteki ürünün adetini değiştirme
