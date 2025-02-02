@@ -36,11 +36,11 @@ public class ProductManager : IProductService
             //Kategorilerin varlığının kontrol edilmesi
             foreach (var categoryId in productCreateDto.CategoryIds)
             {
-                var categoryExists = await _categoryRepository.ExistsAsync(x => x.Id == categoryId && x.IsActive == !x.IsDeleted); //Kategori var mı? Aktif mi? Silinmemiş mi? kontrolleri yazıldı
+                var categoryExists = await _categoryRepository.ExistsAsync(x => x.Id == categoryId && x.IsActive && !x.IsDeleted); //Kategori var mı? Aktif mi? Silinmemiş mi? kontrolleri yazıldı
                 //Kategori bulunamadı ise hata döndürüldü
                 if (!categoryExists)
                 {
-                    return ResponseDto<ProductDto>.Fail($"{categoryId} id'li kategori bulunamadı veya pasif/silinmiş.", StatusCodes.Status400BadRequest);
+                    return ResponseDto<ProductDto>.Fail($"{categoryId} id'li kategori bulunamadı veya pasif/silinmiş.", StatusCodes.Status404NotFound);
                 }
             }
 
@@ -112,6 +112,21 @@ public class ProductManager : IProductService
             return ResponseDto<int>.Fail(ex.Message, StatusCodes.Status500InternalServerError);
         }
     }
+
+    public async Task<ResponseDto<int>> CountAsync()
+    {
+        try
+        {
+            var count = await _productRepository.CountAsync();
+            return ResponseDto<int>.Success(count, StatusCodes.Status200OK);
+        }
+        catch (System.Exception ex)
+        {
+
+            return ResponseDto<int>.Fail(ex.Message, StatusCodes.Status500InternalServerError);
+        }
+    }
+
     public async Task<ResponseDto<IEnumerable<ProductDto>>> GetAllAsync()
     {
         try

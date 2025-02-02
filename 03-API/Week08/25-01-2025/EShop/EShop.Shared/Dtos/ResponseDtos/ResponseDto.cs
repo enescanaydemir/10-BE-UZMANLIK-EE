@@ -19,7 +19,7 @@ public class ResponseDto<T>
     public bool IsSuccessful { get; set; }
 
 
-    // Başarılı durumlarda kullanılacak  metot
+    // Başarılı durumlarda hem veri hemde hata kodu döndürlecek durumlarda kullanılacak metot
     public static ResponseDto<T> Success(T? data, int statusCode)
     {
         return new ResponseDto<T>

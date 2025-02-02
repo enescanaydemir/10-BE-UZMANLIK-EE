@@ -1,8 +1,32 @@
 {
   "Files": [
     {
-      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week07/19-01-2025/EShop/EShop.API/wwwroot/images/33165dd1-6207-4b47-a753-275fa2a384c8.png",
-      "PackagePath": "staticwebassets/images/33165dd1-6207-4b47-a753-275fa2a384c8.png"
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week08/25-01-2025/EShop/EShop.API/wwwroot/images/090c47ab-63f0-4973-b18c-f676c13c71f8.png",
+      "PackagePath": "staticwebassets/images/090c47ab-63f0-4973-b18c-f676c13c71f8.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week08/25-01-2025/EShop/EShop.API/wwwroot/images/1dc461a6-6a28-42ce-96ab-87ffcde0558b.png",
+      "PackagePath": "staticwebassets/images/1dc461a6-6a28-42ce-96ab-87ffcde0558b.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week08/25-01-2025/EShop/EShop.API/wwwroot/images/2291a4df-8cd5-4d72-ad10-a5e97a9055fb.png",
+      "PackagePath": "staticwebassets/images/2291a4df-8cd5-4d72-ad10-a5e97a9055fb.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week08/25-01-2025/EShop/EShop.API/wwwroot/images/2de4e6ae-8521-4d9d-8f09-bf6f5f6c37dc.png",
+      "PackagePath": "staticwebassets/images/2de4e6ae-8521-4d9d-8f09-bf6f5f6c37dc.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week08/25-01-2025/EShop/EShop.API/wwwroot/images/8dd15552-ebc2-454a-b856-1ea9b11f6fbd.png",
+      "PackagePath": "staticwebassets/images/8dd15552-ebc2-454a-b856-1ea9b11f6fbd.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week08/25-01-2025/EShop/EShop.API/wwwroot/images/8e9099ef-1d15-4300-824c-225e271cdcc4.png",
+      "PackagePath": "staticwebassets/images/8e9099ef-1d15-4300-824c-225e271cdcc4.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week08/25-01-2025/EShop/EShop.API/wwwroot/images/97606319-2779-4ff0-8c1e-dc9a2059f0a9.png",
+      "PackagePath": "staticwebassets/images/97606319-2779-4ff0-8c1e-dc9a2059f0a9.png"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EShop.API.Microsoft.AspNetCore.StaticWebAssets.props",

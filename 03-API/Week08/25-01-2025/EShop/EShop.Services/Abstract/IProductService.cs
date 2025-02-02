@@ -18,6 +18,7 @@ namespace EShop.Services.Abstract
         Task<ResponseDto<NoContent>> HardDeleteAsync(int id); // Ürünü veritabanından silme
         // Ürün sayısını döndüren metotlar
         Task<ResponseDto<int>> CountAsync(bool isActive); // Aktif olan ürünlerin sayısını döndürecek
+        Task<ResponseDto<int>> CountAsync(); // Tüm ürünlerin sayısını döndürecek
         Task<ResponseDto<bool>> UpdateIsActiveAsync(int id); // Ürünün aktif/pasif durumunu güncelleyecek
     }
 }
