@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- burda normalde head kısımları vardı (meta link Version onları _HeadPartial içerisine attık)  -->
+    @await Html.PartialAsync("LayoutPartials/_HeadPartial")
+    @await Html.PartialAsync("LayoutPartials/_StylesPartial")
+</head>
+
+<body class="hold-transition sidebar-mini layout-fixed">
+    <div class="wrapper">
+        <!-- Preloader -->
+        @await Html.PartialAsync("LayoutPartials/_PreloaderPartial")
+
+        <!-- Navbar -->
+        @await Html.PartialAsync("LayoutPartials/_TopNavPartial")
+
+        <!-- Main Sidebar Container -->
+        @await Html.PartialAsync("LayoutPartials/_MainSidebarPartial")
+
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            @RenderBody()
+            <!-- /.content -->
+        </div>
+        <!-- /.content-wrapper -->
+
+        <!-- Main Footer -->
+        @await Html.PartialAsync("LayoutPartials/_FooterPartial")
+    </div>
+    <!-- ./wrapper -->
+
+    @await Html.PartialAsync("LayoutPartials/_ScriptPartial")
+
+</body>
+
+</html>

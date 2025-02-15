@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/184255f7-3bfe-456f-9471-e7fcaf33ec8e.png",
+      "PackagePath": "staticwebassets/images/184255f7-3bfe-456f-9471-e7fcaf33ec8e.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/39c13784-b7ab-4c1e-9be6-72da59681d3c.png",
+      "PackagePath": "staticwebassets/images/39c13784-b7ab-4c1e-9be6-72da59681d3c.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/622e0488-4bdd-4584-b041-2324a7c08a3d.png",
+      "PackagePath": "staticwebassets/images/622e0488-4bdd-4584-b041-2324a7c08a3d.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/8e0a0e7f-180f-4f4c-a4e5-3aff2fef7a48.png",
+      "PackagePath": "staticwebassets/images/8e0a0e7f-180f-4f4c-a4e5-3aff2fef7a48.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/a6be2a5e-c170-4e2a-bf2f-1cbd082c9bfb.png",
+      "PackagePath": "staticwebassets/images/a6be2a5e-c170-4e2a-bf2f-1cbd082c9bfb.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/aa079337-8113-40f9-9c79-103f5713a0c9.jpg",
+      "PackagePath": "staticwebassets/images/aa079337-8113-40f9-9c79-103f5713a0c9.jpg"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/bc463cc5-9b5f-457d-a352-9016d4d14f9b.png",
+      "PackagePath": "staticwebassets/images/bc463cc5-9b5f-457d-a352-9016d4d14f9b.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/c1e5c3b5-5bc0-449e-882c-a15506b39d7e.png",
+      "PackagePath": "staticwebassets/images/c1e5c3b5-5bc0-449e-882c-a15506b39d7e.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/03-API/Week10/08-01-2025/EShop/EShop.API/wwwroot/images/f332d83a-41e9-4505-b79f-64dc18183289.png",
+      "PackagePath": "staticwebassets/images/f332d83a-41e9-4505-b79f-64dc18183289.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EShop.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EShop.API.props",
+      "PackagePath": "build\\EShop.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EShop.API.props",
+      "PackagePath": "buildMultiTargeting\\EShop.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EShop.API.props",
+      "PackagePath": "buildTransitive\\EShop.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
