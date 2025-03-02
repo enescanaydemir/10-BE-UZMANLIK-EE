@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EShop.Entity
-build_property.ProjectDir = /Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week11/15-02-2025/EShop/Backend/EShop.Entity/
+build_property.ProjectDir = /Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week11/15-02-2025/EShop/Backend/EShop.Entity/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
