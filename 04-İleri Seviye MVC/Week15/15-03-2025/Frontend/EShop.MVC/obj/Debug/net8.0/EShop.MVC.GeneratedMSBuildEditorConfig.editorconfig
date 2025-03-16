@@ -1,0 +1,235 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EShop.MVC
+build_property.RootNamespace = EShop.MVC
+build_property.ProjectDir = /Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Category/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Product/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VHJhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/Components/UserPanel/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0Zvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0hlYWRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_LeftMenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlZnRNZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_MainSidebarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X01haW5TaWRlYmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_MessagesMenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X01lc3NhZ2VzTWVudVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_NotificationsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X05vdGlmaWNhdGlvbnNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_PreloaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ByZWxvYWRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_ScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1NjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_StylesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1N0eWxlc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/LayoutPartials/_TopNavPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1RvcE5hdlBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/_DataTablesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0RhdGFUYWJsZXNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Auth/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Components/CartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Components/ProductList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Others/_BannerPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0Jhbm5lclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Others/_BrandPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0JyYW5kUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Others/_CategoryPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0NhdGVnb3J5UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Others/_ExcluisivePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0V4Y2x1aXNpdmVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Others/_FeaturesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0ZlYXR1cmVzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Others/_RelatedProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1JlbGF0ZWRQcm9kdWN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/Others/_SingleProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1NpbmdsZVByb2R1Y3RQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0F1dGhMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0Zvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0hlYWRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/_ScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1NjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/_StylesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1N0eWxlc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/15-03-2025/Frontend/EShop.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

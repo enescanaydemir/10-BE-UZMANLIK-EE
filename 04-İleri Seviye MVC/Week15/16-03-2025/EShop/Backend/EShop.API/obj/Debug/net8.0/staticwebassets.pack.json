@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/08a873ce-d8df-4726-8f30-3a819c0aaaec.png",
+      "PackagePath": "staticwebassets/images/categories/08a873ce-d8df-4726-8f30-3a819c0aaaec.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/175a2520-9dca-462d-8a7f-277d04c80541.png",
+      "PackagePath": "staticwebassets/images/categories/175a2520-9dca-462d-8a7f-277d04c80541.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/18265206-46a3-4012-852c-b44fac1591ab.png",
+      "PackagePath": "staticwebassets/images/categories/18265206-46a3-4012-852c-b44fac1591ab.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/210daf93-8e94-47a0-94f3-17ad0dc2e2df.png",
+      "PackagePath": "staticwebassets/images/categories/210daf93-8e94-47a0-94f3-17ad0dc2e2df.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/26e9c95d-ed3a-4160-add5-88f7435dae11.png",
+      "PackagePath": "staticwebassets/images/categories/26e9c95d-ed3a-4160-add5-88f7435dae11.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/458d9e7c-3e2c-4883-8ee9-4171d5a043c7.png",
+      "PackagePath": "staticwebassets/images/categories/458d9e7c-3e2c-4883-8ee9-4171d5a043c7.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/4dc81a84-117f-43e4-a3a7-72dcb1fd7d19.png",
+      "PackagePath": "staticwebassets/images/categories/4dc81a84-117f-43e4-a3a7-72dcb1fd7d19.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/54401969-40b1-481d-b6d2-529ffbac68fa.png",
+      "PackagePath": "staticwebassets/images/categories/54401969-40b1-481d-b6d2-529ffbac68fa.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/83fd94e3-473f-4c79-8136-40a1d3b7c84b.png",
+      "PackagePath": "staticwebassets/images/categories/83fd94e3-473f-4c79-8136-40a1d3b7c84b.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/9cdc5352-8570-4efc-a3f0-bf0548a0d9b2.png",
+      "PackagePath": "staticwebassets/images/categories/9cdc5352-8570-4efc-a3f0-bf0548a0d9b2.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/a3d3640d-6c13-40c6-bcd8-2ef4e411726a.png",
+      "PackagePath": "staticwebassets/images/categories/a3d3640d-6c13-40c6-bcd8-2ef4e411726a.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/a7bcf91a-a9a3-4ff4-beef-587d37af319d.png",
+      "PackagePath": "staticwebassets/images/categories/a7bcf91a-a9a3-4ff4-beef-587d37af319d.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/ba8d4a6e-b3e6-4469-8576-4e432ec33fb5.png",
+      "PackagePath": "staticwebassets/images/categories/ba8d4a6e-b3e6-4469-8576-4e432ec33fb5.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/bebek-cocuk.png",
+      "PackagePath": "staticwebassets/images/categories/bebek-cocuk.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/c59e4ce4-0cf0-4af5-a003-19edbf264659.png",
+      "PackagePath": "staticwebassets/images/categories/c59e4ce4-0cf0-4af5-a003-19edbf264659.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/cc36c526-c6f1-4010-b6c5-73f54bb0010c.png",
+      "PackagePath": "staticwebassets/images/categories/cc36c526-c6f1-4010-b6c5-73f54bb0010c.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/ce8928f8-720a-41e0-8a95-801f2e43e7cd.png",
+      "PackagePath": "staticwebassets/images/categories/ce8928f8-720a-41e0-8a95-801f2e43e7cd.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/default-category.png",
+      "PackagePath": "staticwebassets/images/categories/default-category.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/ev-yasam.png",
+      "PackagePath": "staticwebassets/images/categories/ev-yasam.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/f9cee58c-71e2-4085-81d0-737ee86cc4de.png",
+      "PackagePath": "staticwebassets/images/categories/f9cee58c-71e2-4085-81d0-737ee86cc4de.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/fdbfffc9-84b3-4af6-b5ad-e41d5dd51abf.png",
+      "PackagePath": "staticwebassets/images/categories/fdbfffc9-84b3-4af6-b5ad-e41d5dd51abf.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/fe5cc9fc-7ed9-4eb6-8386-3e6b2f3c9346.png",
+      "PackagePath": "staticwebassets/images/categories/fe5cc9fc-7ed9-4eb6-8386-3e6b2f3c9346.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/kitap-dergi.png",
+      "PackagePath": "staticwebassets/images/categories/kitap-dergi.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/kozmetik-bakim.png",
+      "PackagePath": "staticwebassets/images/categories/kozmetik-bakim.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/moda.png",
+      "PackagePath": "staticwebassets/images/categories/moda.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/otomotiv.png",
+      "PackagePath": "staticwebassets/images/categories/otomotiv.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/oyuncak-hobi.png",
+      "PackagePath": "staticwebassets/images/categories/oyuncak-hobi.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/seyahat-valiz.png",
+      "PackagePath": "staticwebassets/images/categories/seyahat-valiz.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/categories/spor-outdoor.png",
+      "PackagePath": "staticwebassets/images/categories/spor-outdoor.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/14b4616a-09ca-42df-b982-dde9937fba9d.png",
+      "PackagePath": "staticwebassets/images/products/14b4616a-09ca-42df-b982-dde9937fba9d.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/170002de-106e-49c7-a7ba-55157a48bb0d.png",
+      "PackagePath": "staticwebassets/images/products/170002de-106e-49c7-a7ba-55157a48bb0d.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/292a72ff-095f-43af-bb48-3d6dde936a00.png",
+      "PackagePath": "staticwebassets/images/products/292a72ff-095f-43af-bb48-3d6dde936a00.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/2bc5f526-6984-4656-80b8-f594bed9a8f7.png",
+      "PackagePath": "staticwebassets/images/products/2bc5f526-6984-4656-80b8-f594bed9a8f7.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/3c67c9bd-fdb9-44b3-89c4-af8d324d041b.png",
+      "PackagePath": "staticwebassets/images/products/3c67c9bd-fdb9-44b3-89c4-af8d324d041b.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/403f0407-bee8-46c4-bb1d-9c55f32949db.png",
+      "PackagePath": "staticwebassets/images/products/403f0407-bee8-46c4-bb1d-9c55f32949db.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/41897b58-a5f9-4d9e-9f60-80c09ba6607c.png",
+      "PackagePath": "staticwebassets/images/products/41897b58-a5f9-4d9e-9f60-80c09ba6607c.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/4cb43daa-40b8-4f8b-9cef-bb4c04044d81.png",
+      "PackagePath": "staticwebassets/images/products/4cb43daa-40b8-4f8b-9cef-bb4c04044d81.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/55939145-6344-40f4-b0f0-83759284ab36.png",
+      "PackagePath": "staticwebassets/images/products/55939145-6344-40f4-b0f0-83759284ab36.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/56755183-4c2a-4f31-826e-61bb216dae3f.png",
+      "PackagePath": "staticwebassets/images/products/56755183-4c2a-4f31-826e-61bb216dae3f.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/61a5c32a-7f02-4e86-986c-45b5e38b2cb5.png",
+      "PackagePath": "staticwebassets/images/products/61a5c32a-7f02-4e86-986c-45b5e38b2cb5.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/73159963-b295-4316-b9d6-af044bd0e61a.png",
+      "PackagePath": "staticwebassets/images/products/73159963-b295-4316-b9d6-af044bd0e61a.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/7c83e164-ac1b-45e3-8d70-7140cbf8fef2.png",
+      "PackagePath": "staticwebassets/images/products/7c83e164-ac1b-45e3-8d70-7140cbf8fef2.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/7c920b36-3c79-41b5-8b88-76657d1d7991.png",
+      "PackagePath": "staticwebassets/images/products/7c920b36-3c79-41b5-8b88-76657d1d7991.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/818b8016-fba1-480f-ad03-cd1a7af2fd9d.png",
+      "PackagePath": "staticwebassets/images/products/818b8016-fba1-480f-ad03-cd1a7af2fd9d.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/89e875b2-47f7-4ca8-bf6f-af361bc24ca0.png",
+      "PackagePath": "staticwebassets/images/products/89e875b2-47f7-4ca8-bf6f-af361bc24ca0.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/a1c113e3-e010-44d2-bd41-671bd91ae71c.png",
+      "PackagePath": "staticwebassets/images/products/a1c113e3-e010-44d2-bd41-671bd91ae71c.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/b7a4915b-c64d-4ac2-87c9-b3c70a04cd51.png",
+      "PackagePath": "staticwebassets/images/products/b7a4915b-c64d-4ac2-87c9-b3c70a04cd51.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/baby-clothes.png",
+      "PackagePath": "staticwebassets/images/products/baby-clothes.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/bag.png",
+      "PackagePath": "staticwebassets/images/products/bag.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/bed-sheet.png",
+      "PackagePath": "staticwebassets/images/products/bed-sheet.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/bike.png",
+      "PackagePath": "staticwebassets/images/products/bike.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/coloring-book.png",
+      "PackagePath": "staticwebassets/images/products/coloring-book.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/d63c5733-ceba-4228-93cb-87bbee41ab4f.png",
+      "PackagePath": "staticwebassets/images/products/d63c5733-ceba-4228-93cb-87bbee41ab4f.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/default-product.png",
+      "PackagePath": "staticwebassets/images/products/default-product.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/diapers.png",
+      "PackagePath": "staticwebassets/images/products/diapers.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/dinner-set.png",
+      "PackagePath": "staticwebassets/images/products/dinner-set.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/e0edd73d-1a4a-4b4e-9747-63f0065f272e.png",
+      "PackagePath": "staticwebassets/images/products/e0edd73d-1a4a-4b4e-9747-63f0065f272e.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/earbuds.png",
+      "PackagePath": "staticwebassets/images/products/earbuds.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/gloves.png",
+      "PackagePath": "staticwebassets/images/products/gloves.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/gym-bag.png",
+      "PackagePath": "staticwebassets/images/products/gym-bag.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/kids-bike.png",
+      "PackagePath": "staticwebassets/images/products/kids-bike.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/kids-book.png",
+      "PackagePath": "staticwebassets/images/products/kids-book.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/lamp.png",
+      "PackagePath": "staticwebassets/images/products/lamp.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/laptop.png",
+      "PackagePath": "staticwebassets/images/products/laptop.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/lego.png",
+      "PackagePath": "staticwebassets/images/products/lego.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/lipstick.png",
+      "PackagePath": "staticwebassets/images/products/lipstick.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/magazine.png",
+      "PackagePath": "staticwebassets/images/products/magazine.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/men-jacket.png",
+      "PackagePath": "staticwebassets/images/products/men-jacket.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/model-plane.png",
+      "PackagePath": "staticwebassets/images/products/model-plane.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/novel.png",
+      "PackagePath": "staticwebassets/images/products/novel.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/perfume.png",
+      "PackagePath": "staticwebassets/images/products/perfume.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/puzzle.png",
+      "PackagePath": "staticwebassets/images/products/puzzle.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/rc-car.png",
+      "PackagePath": "staticwebassets/images/products/rc-car.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/sci-fi.png",
+      "PackagePath": "staticwebassets/images/products/sci-fi.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/self-help.png",
+      "PackagePath": "staticwebassets/images/products/self-help.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/shampoo.png",
+      "PackagePath": "staticwebassets/images/products/shampoo.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/smartphone.png",
+      "PackagePath": "staticwebassets/images/products/smartphone.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/smartwatch.png",
+      "PackagePath": "staticwebassets/images/products/smartwatch.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/sneakers.png",
+      "PackagePath": "staticwebassets/images/products/sneakers.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/sofa.png",
+      "PackagePath": "staticwebassets/images/products/sofa.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/stroller.png",
+      "PackagePath": "staticwebassets/images/products/stroller.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/sunglasses.png",
+      "PackagePath": "staticwebassets/images/products/sunglasses.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/tablet.png",
+      "PackagePath": "staticwebassets/images/products/tablet.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/tent.png",
+      "PackagePath": "staticwebassets/images/products/tent.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/treadmill.png",
+      "PackagePath": "staticwebassets/images/products/treadmill.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/vacuum.png",
+      "PackagePath": "staticwebassets/images/products/vacuum.png"
+    },
+    {
+      "Id": "/Users/enescanaydemir/dev/10-BE-UZMANLIK-EE/04-İleri Seviye MVC/Week15/16-03-2025/EShop/Backend/EShop.API/wwwroot/images/products/women-dress.png",
+      "PackagePath": "staticwebassets/images/products/women-dress.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EShop.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EShop.API.props",
+      "PackagePath": "build\\EShop.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EShop.API.props",
+      "PackagePath": "buildMultiTargeting\\EShop.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EShop.API.props",
+      "PackagePath": "buildTransitive\\EShop.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
